@@ -2,7 +2,7 @@
 
 interface ImportMetaEnv {
   /**
-   * Backend Base URL
+   * Backend base URL
    */
   readonly VITE_BACKEND_BASE_URL: string
 }
